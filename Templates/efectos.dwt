@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Untitled Document</title>
+	<!-- TemplateEndEditable -->
+	<!-- Bootstrap -->
+	<link href="../css/bootstrap-4.3.1.css" rel="stylesheet">
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+  </head>
+  <body>
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+  <div class="container-fluid">
+    <ul class="nav nav-tabs">
+      <li class="nav-item"> <a href="index.dwt" target="new" class="nav-link active">Desórdenes</a> </li>
+      <li class="nav-item"> <a href="caracteristicas.dwt" target="new" class="nav-link">Características</a> </li>
+      <li class="nav-item"> <a href="causas.dwt" target="new" class="nav-link">Causas</a> </li>
+	  <li class="nav-item"> <a href="efectos.dwt" target="new" class="nav-link">Efectos</a> </li>
+	  <li class="nav-item"> <a href="señales.dwt" target="new" class="nav-link">Señales</a> </li>
+	  <li class="nav-item"> <a href="ayuda.dwt" target="new" class="nav-link">Ayuda</a> </li>
+    </ul>
+  </div>
+  <!-- TemplateEndEditable -->
+  <div class="container-fluid">
+  <img src="../imagenes/fondo.jpg" width="1200" height="800" alt=""/>
+  </div>
+  <!-- TemplateBeginEditable name="EditRegion2" style="text-align: center" -->
+  <div class="container-fluid">
+  <h2>Principales Efectos de los desórdenes alimenticios</h2>
+  <p>Aunque es cierto que desórden alimenticio puede resultada de graves problemas de salud mental y de conducta, así como de trauma (como abuso sexual), también es cierto que puede dar lugar a graves problemas de salud estrictamente física. La anorexia y la bulimia pueden provocar deshidratación y otras complicaciones médicas, como los problemas cardíacos y la insuficiencia renal. En casos extremos, los desórdenes alimenticios pueden conducir a malnutrición grave e incluso a la muerte.</p>
+  <p>Cuando una persona padece anorexia, su cuerpo entra en un estado de inanición y esta falta de nutrientes puede afectar al organismo de muchas formas diferentes:</p>
+  <ol>
+  <li>descenso de la tensión arterial, el pulso y la frecuencia respiratoria</li>
+  <li>pérdida de pelo y rotura de uñas</li>
+  <li>desaparición de la menstruación</li>
+  <li>crecimiento de lanugo, un vello fino que puede crecer sobre toda la piel del cuerpo</li>
+  <li>mareo e incapacidad para concentrarse</li>
+  <li>anemia</li>
+  <li>inflamación articular</li>
+  <li>fragilidad ósea</li>
+  </ol>
+  <img src="../imagenes/anorexiaok.jpg" width="840" height="420" alt=""/>
+<p>Cuando una persona padece bulimia, los vómitos constantes y la falta de nutrientes pueden provocar:</p>
+  <ol>
+  <li>dolor abdominal permanente</li>
+  <li>lesiones en el estómago y los riñones</li>
+  <li>caries dental (por la exposición de los dientes al ácido del jugo gástrico)</li>
+  <li>hinchazón de mejillas, debido a que las glándulas salivales se dilatan de forma permanente por el hecho de vomitar tan a menudo</li>
+  <li>desaparición de la menstruación</li>
+  <li>pérdida de potasio (esto puede contribuir al desarrollo de problemas cardíacos e incluso a la muerte)</li>
+  </ol>
+  <img src="../imagenes/trastornosdelaalimentacion-focus-min0.01-0.77-983-557.jpg" width="891" height="438" alt=""/> </div>
+  <!-- TemplateEndEditable -->
+  <!-- body code goes here -->
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="../js/jquery-3.3.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="../js/popper.min.js"></script> 
+  <script src="../js/bootstrap-4.3.1.js"></script>
+  </body>
+</html>

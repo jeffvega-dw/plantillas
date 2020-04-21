@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Untitled Document</title>
+	<!-- TemplateEndEditable -->
+	<!-- Bootstrap -->
+	<link href="../css/bootstrap-4.3.1.css" rel="stylesheet">
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+  </head>
+  <body>
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+  <div class="container-fluid">
+     <ul class="nav nav-tabs">
+      <li class="nav-item"> <a href="index.dwt" target="new" class="nav-link active">Desórdenes</a> </li>
+      <li class="nav-item"> <a href="caracteristicas.dwt" target="new" class="nav-link">Características</a> </li>
+      <li class="nav-item"> <a href="causas.dwt" target="new" class="nav-link">Causas</a> </li>
+	  <li class="nav-item"> <a href="efectos.dwt" target="new" class="nav-link">Efectos</a> </li>
+	  <li class="nav-item"> <a href="señales.dwt" target="new" class="nav-link">Señales</a> </li>
+	  <li class="nav-item"> <a href="ayuda.dwt" target="new" class="nav-link">Ayuda</a> </li>
+    </ul>
+  </div>
+  <!-- TemplateEndEditable -->
+  <div class="container-fluid">
+  <img src="../imagenes/fondo.jpg" width="1200" height="800" alt=""/>
+  </div>
+  <!-- TemplateBeginEditable name="EditRegion2" style="text-align: center" -->
+  <div class="container-fluid">
+  <h2>Características</h2>
+  <p>Los desórdenes alimenticios poseen sus propias características, los cuales dan las pautras para reconocer las señales.</p>
+  <div id="accordion1" role="tablist">
+    <div class="card">
+      <div class="card-header" role="tab" id="headingOne1">
+        <h5 class="mb-0"> <a data-toggle="collapse" href="#collapseOne1" role="button" aria-expanded="true" aria-controls="collapseOne1"> PICA </a> </h5>
+      </div>
+      <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1" data-parent="#accordion1">
+        <div class="card-body">Consiste en al apetito y consumo de sustancias sin valor nutritivo, como papel, tierra o pintura. Es más común en la infancia, especialmente en las personas con discapacidad intelectual y puede ocasionar intoxicaciones debido al consumo de sustancias tóxicas, o lesiones en el sistema gastrointestinal ocasionadas por la presencia de objetos punzantes o cortantes.</div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" role="tab" id="headingTwo1">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwo1" role="button" aria-expanded="false" aria-controls="collapseTwo1"> TRASTORNO POR RUMIACIÓN </a> </h5>
+      </div>
+      <div id="collapseTwo1" class="collapse" role="tabpanel" aria-labelledby="headingTwo1" data-parent="#accordion1">
+        <div class="card-body">Consiste en la regurgitación del alimento, es decir, la persona con trastorno por rumiación vuelve a traer a la boca alimentos anteriormente ingeridos, masticándolos y, dependiendo del caso, volviéndolos a tragar o arrojándolos fuera. Es más común en la infancia y puede traer como consecuencia déficits nutritivos, bajo peso y caída de los dientes, entre otras alteraciones.</div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" role="tab" id="headingThree1">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseThree1" role="button" aria-expanded="false" aria-controls="collapseThree1"> TRASTORNO DE EVITACIÓN / RESTRICCIÓN DE LA INGESTA DE ALIMENTOS </a> </h5>
+      </div>
+      <div id="collapseThree1" class="collapse" role="tabpanel" aria-labelledby="headingThree1" data-parent="#accordion1">
+        <div class="card-body"> Es un trastorno de la alimentación que se manifiesta por la negación y evitación de ingerir alimentos, en ocasiones debido a características como el color, el olor o la textura. Como consecuencia, la persona afectada tiene déficits nutricionales que en algunos casos pueden poner en riesgo su vida. El trastorno de Evitación/Restricción de la ingestión de alimentos es también más común en la infancia, aunque puede surgir y persistir en la adultez.</div>
+      </div>
+    </div>
+	<div class="card">
+      <div class="card-header" role="tab" id="headingThree2">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseThree2" role="button" aria-expanded="false" aria-controls="collapseThree2"> ANOREXIA NERVIOSA </a> </h5>
+      </div>
+      <div id="collapseThree2" class="collapse" role="tabpanel" aria-labelledby="headingThree2" data-parent="#accordion1">
+        <div class="card-body"><img src="../imagenes/unnamed.jpg" width="500" height="392" alt=""/>Trastorno que se caracteriza por la pérdida significativa de peso teniendo en cuenta lo considerado mínimamente normal, un miedo intenso a ganar peso o llegar a la obesidad y, en algunos casos, alteraciones en la percepción objetiva del cuerpo. Es más común en las mujeres y su pico de incidencia y prevalencia se da en la adolescencia y primera juventud. Las consecuencias de la anorexia pueden ser mortales si el trastorno no es tratado adecuadamente.</div>
+      </div>
+    </div>
+	<div class="card">
+      <div class="card-header" role="tab" id="headingThree3">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseThree3" role="button" aria-expanded="false" aria-controls="collapseThree3"> BULIMIA NERVIOSA </a> </h5>
+      </div>
+      <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3" data-parent="#accordion1">
+        <div class="card-body">Las personas con este trastorno ingieren grandes cantidades de comida en poco tiempo, algo que se conoce como atracón, teniendo la sensación de que no pueden controlarlo. Como consecuencia desarrollan conductas compensatorias que buscan minimizar la ganancia de peso, por ejemplo, provocándose el vómito. Al igual que la anorexia, suele desarrollarse en la adolescencia y primera juventud y aumentar significativamente el riesgo de muerte.</div>
+      </div>
+    </div>
+	<div class="card">
+      <div class="card-header" role="tab" id="headingThree4">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseThree4" role="button" aria-expanded="false" aria-controls="collapseThree4"> TRASTORNO POR ATRACONES </a> </h5>
+      </div>
+      <div id="collapseThree4" class="collapse" role="tabpanel" aria-labelledby="headingThree4" data-parent="#accordion1">
+        <div class="card-body">En el trastorno de atracones la persona tiene episodios frecuentes de ingesta descontrolada de comida, superior a lo que se considera normal para su edad y circunstancias. Durante estos episodios la persona tiene la sensación de no poder controlarlos. Al contrario de la bulimia nerviosa, no se asocia a conductas compensatorias. El trastorno de atracones está asociado a más riesgo de enfermedades cardiovasculares y otros trastornos asociados a la obesidad.</div>
+      </div>
+    </div>
+	<h2>Otros trastornos alimentarios o de la ingestión de alimentos especificado o no especificado</h2>
+	<p>Categoría reservada para los casos en que existan alteraciones de la alimentación que no cumplan con los criterios diagnósticos especificados para los trastornos anteriormente mencionados, pero que afecten significativamente el bienestar de la persona.</p>
+	<img src="../imagenes/trastornosalimenticios_0.jpg" width="800" height="750" alt=""/>
+  </div>
+  </div>
+  <!-- TemplateEndEditable -->
+  <!-- body code goes here -->
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="../js/jquery-3.3.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="../js/popper.min.js"></script> 
+  <script src="../js/bootstrap-4.3.1.js"></script>
+  </body>
+</html>

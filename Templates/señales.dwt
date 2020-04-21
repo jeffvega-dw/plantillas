@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Untitled Document</title>
+	<!-- TemplateEndEditable -->
+	<!-- Bootstrap -->
+	<link href="../css/bootstrap-4.3.1.css" rel="stylesheet">
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+  </head>
+  <body>
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+  <div class="container-fluid">
+     <ul class="nav nav-tabs">
+      <li class="nav-item"> <a href="index.dwt" target="new" class="nav-link active">Desórdenes</a> </li>
+      <li class="nav-item"> <a href="caracteristicas.dwt" target="new" class="nav-link">Características</a> </li>
+      <li class="nav-item"> <a href="causas.dwt" target="new" class="nav-link">Causas</a> </li>
+	  <li class="nav-item"> <a href="efectos.dwt" target="new" class="nav-link">Efectos</a> </li>
+	  <li class="nav-item"> <a href="señales.dwt" target="new" class="nav-link">Señales</a> </li>
+	  <li class="nav-item"> <a href="ayuda.dwt" target="new" class="nav-link">Ayuda</a> </li>
+    </ul>
+  </div>
+  <!-- TemplateEndEditable -->
+  <div class="container-fluid">
+  <img src="../imagenes/fondo.jpg" width="1200" height="800" alt=""/>
+  </div>
+  <!-- TemplateBeginEditable name="EditRegion2" style="text-align: center" -->
+  <div class="container-fluid">
+  <h2>Principales Señales de un desórden alimenticio</h2>
+  <p>Para un padre, puede ser un reto saber distinguir entre la preocupación por la propia imagen corporal normal en un niño y los signos de alarma de un desórden alimenticio.</p>
+  <p>A pesar de que en los niños y los adolescentes (sobre todo las chicas) abundan los complejos y la tendencia a compararse entre sí y a hablar sobre dietas, esto no significa necesariamente que padezcan un trastorno del apetito. Los niños con este tipo de trastornos presentan graves problemas relacionados con la alimentación y a menudo signos físicos anormales.</p>
+  <h2>Una persona con trastorno alimenticio que presente cuadros de:</h2>
+  <div id="accordion1" role="tablist">
+    <div class="card">
+      <div class="card-header" role="tab" id="headingOne1">
+        <h5 class="mb-0"> <a data-toggle="collapse" href="#collapseOne1" role="button" aria-expanded="true" aria-controls="collapseOne1"> ANOREXIA </a> </h5>
+      </div>
+      <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1" data-parent="#accordion1">
+        <div class="card-body">Podria presentar las siguientes señales:
+		<ol>
+		<li>adelgazar mucho, estar muy débil o demacrada</li>
+		<li>estar obsesionada con la comida y el control de peso</li>
+		<li>pesarse repetidamente</li>
+		<li>controlar atentamente la cantidad de alimento que ingiere</li>
+		<li>comer solo determinados alimentos, evitando algunos como los lácteos, la carne, el trigo, etc. (De todos modos, es evidente que las personas que son alérgicas a un alimento en concreto o que son vegetarianas evitan ingerir ciertos alimentos.)</li>
+		<li>hacer un ejercicio físico excesivo</li>
+		<li>sentirse gorda</li>
+		<li>evitar las actividades sociales, especialmente las comidas y celebraciones que implican comer</li>
+		<li>estar deprimida, aletargada (con falta de energía) y sentir mucho frío</li>
+		</ol>
+		<img src="../imagenes/mujer-21.jpg" width="948" height="542" alt=""/></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" role="tab" id="headingTwo1">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwo1" role="button" aria-expanded="false" aria-controls="collapseTwo1"> BULIMIA </a> </h5>
+      </div>
+      <div id="collapseTwo1" class="collapse" role="tabpanel" aria-labelledby="headingTwo1" data-parent="#accordion1">
+        <div class="card-body">Podria presentar las siguientes señales:
+		<ol>
+		<li>temer ganar peso</li>
+		<li>sentirse muy infeliz con el volumen, la forma y el peso de su cuerpo</li>
+		<li>inventar excusas para ir al baño inmediatamente después de las comidas</li>
+		<li>comer solo alimentos dietéticos o con bajo contenido en grasas (salvo en los atracones)</li>
+		<li>comprar de forma habitual laxantes, diuréticos o enemas</li>
+		<li>pasar la mayor parte del tiempo haciendo ejercicio o intentando quemar calorías</li>
+		<li>evitar las actividades sociales, especialmente las comidas y celebraciones que implican comer</li>
+		</ol>
+		<img src="../imagenes/descarga.jpg" width="400" height="225" alt=""/></div>
+      </div>
+    </div>
+  </div>
+  </div>
+  <!-- TemplateEndEditable -->
+  <!-- body code goes here -->
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="../js/jquery-3.3.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="../js/popper.min.js"></script> 
+  <script src="../js/bootstrap-4.3.1.js"></script>
+  </body>
+</html>

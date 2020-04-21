@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Untitled Document</title>
+	<!-- TemplateEndEditable -->
+	<!-- Bootstrap -->
+	<link href="../css/bootstrap-4.3.1.css" rel="stylesheet">
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+  </head>
+  <body>
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+  <div class="container-fluid">
+   <ul class="nav nav-tabs">
+      <li class="nav-item"> <a href="index.dwt" target="new" class="nav-link active">Desórdenes</a> </li>
+      <li class="nav-item"> <a href="caracteristicas.dwt" target="new" class="nav-link">Características</a> </li>
+      <li class="nav-item"> <a href="causas.dwt" target="new" class="nav-link">Causas</a> </li>
+	  <li class="nav-item"> <a href="efectos.dwt" target="new" class="nav-link">Efectos</a> </li>
+	  <li class="nav-item"> <a href="señales.dwt" target="new" class="nav-link">Señales</a> </li>
+	  <li class="nav-item"> <a href="ayuda.dwt" target="new" class="nav-link">Ayuda</a> </li>
+    </ul>
+  </div>
+  <!-- TemplateEndEditable -->
+  <div class="container-fluid">
+  <img src="../imagenes/fondo.jpg" width="1200" height="800" alt=""/>
+  </div>
+  <!-- TemplateBeginEditable name="EditRegion2" style="text-align: center" -->
+  <div class="container-fluid">
+  <h2>Principales causas de los desórdenes alimenticios</h2>
+  <p>Las causas de los desórdenes alimenticios no están del todo claras. De todos modos, se cree que en ellas participa una combinación de factores psicológicos, genéticos, sociales y familiares.</p>
+  <p>En los niños con trastorno del apetito suele existir una gran diferencia entre cómo se ven a sí mismos y cómo son en realidad. Las personas que padecen anorexia o bulimia suelen tener un inmenso miedo a engordar o a tener sobrepeso y se ven más gordas de lo que están. Además, algunos deportes y actividades, como cheerleading deportivos, la gimnasia, el ballet, el patinaje sobre hielo y la lucha, que enfatizan determinadas categorías de peso, pueden incrementar el riesgo de algunos niños y adolescentes a desarrollar desórdenes alimenticios.</p>
+  <p>También existe una incidencia cada vez mayor de otros tipos de problemas entre los niños y adolescentes afectados por un desórden alimenticio, como trastorno de ansiedad y el trastorno obsesivo compulsivo. A veces, los problemas que se viven en casa pueden aumentar el riesgo de que un niño desarrolle comportamientos alimentarios problemáticos.</p>
+  <p>Muchos niños que desarrollan un trastorno del apetito tienen baja autoestima y el hecho de focalizar la atención en el peso puede ser un intento de tener sensación de control en un momento en que sienten que están perdiendo el control sobre sus vidas.</p>
+  <div id="accordion1" role="tablist">
+    <div class="card">
+      <div class="card-header" role="tab" id="headingOne1">
+        <h5 class="mb-0"> <a data-toggle="collapse" href="#collapseOne1" role="button" aria-expanded="true" aria-controls="collapseOne1"> FACTORES PSICOLÓGICOS </a> </h5>
+      </div>
+      <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1" data-parent="#accordion1">
+        <div class="card-body"><ol>
+		<li>Baja autoestima</li>
+		<li>Sentimientos de insuficiencia o falta de control de su vida</li>
+		<li>Depresión, ansiedad, enojo y soledad</li>
+		</ol></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" role="tab" id="headingTwo1">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseTwo1" role="button" aria-expanded="false" aria-controls="collapseTwo1"> FACTORES INTERPERSONALES </a> </h5>
+      </div>
+      <div id="collapseTwo1" class="collapse" role="tabpanel" aria-labelledby="headingTwo1" data-parent="#accordion1">
+        <div class="card-body"><ol>
+		<li>Relaciones personales y familiares problemáticas</li>
+		<li>Dificultad para expresar sentimientos y emociones</li>
+		<li>Haber sido fastidiado o ridiculizado basado en su talla o peso</li>
+		<li>Historia de abuso físico o sexual</li>
+		</ol></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" role="tab" id="headingThree1">
+        <h5 class="mb-0"> <a class="collapsed" data-toggle="collapse" href="#collapseThree1" role="button" aria-expanded="false" aria-controls="collapseThree1"> FACTORES SOCIALES </a> </h5>
+      </div>
+      <div id="collapseThree1" class="collapse" role="tabpanel" aria-labelledby="headingThree1" data-parent="#accordion1">
+        <div class="card-body"><ol>
+		<li>Presiones culturales que glorifican la “delgadez” y le dan un valor a obtener un “cuerpo perfecto”</li>
+		<li>Definiciones muy concretas de belleza que incluyen solamente mujeres y hombres con ciertos pesos y figuras</li>
+		<li>Normas culturales que valorizan a la gente en base a su apariencia física y no a sus cualidades y virtudes internas</li>
+		</ol></div>
+      </div>
+    </div>
+	<h2>Factores biológicos que pueden contribuir a los trastornos alimenticios:</h2>
+	<p>Los científicos todavía se encuentran investigando las posibles causas bioquímicas o biológicas de los trastornos alimenticios. En algunos individuos con trastornos alimenticios, se ha encontrado que ciertas substancias químicas del cerebro (llamadas neurotransmisores) que controlan el hambre, el apetito y la digestión se encuentran desbalanceados. El significado exacto y las implicaciones de estos desbalances aún se encuentran en investigación.</p>
+	<p>Los trastornos de la conducta alimenticios usualmente se presentan en familias. Los estudios actuales nos indican que la genética contribuye de manera significativa en los trastornos alimenticios.</p>
+	<p>Los trastornos alimenticios son condiciones complejas que surgen de una variedad de causas probables. Sin embargo, una vez que comienzan, pueden crear ciclos de destrucción física y emocional que se perpetúan a sí mismos. La ayuda profesional es recomendada en el tratamiento de los alimenticio.</p>
+	<img src="../imagenes/shutterstock-590902865_ai1.jpg" width="600" height="400" alt=""/> </div>
+  </div>
+  <!-- TemplateEndEditable -->
+  <!-- body code goes here -->
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="../js/jquery-3.3.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="../js/popper.min.js"></script> 
+  <script src="../js/bootstrap-4.3.1.js"></script>
+  </body>
+</html>

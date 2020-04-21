@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Untitled Document</title>
+	<!-- TemplateEndEditable -->
+	<!-- Bootstrap -->
+	<link href="../css/bootstrap-4.3.1.css" rel="stylesheet">
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+  </head>
+  <body>
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+  <div class="container-fluid">
+    <ul class="nav nav-tabs">
+      <li class="nav-item"> <a href="index.dwt" target="new" class="nav-link active">Desórdenes</a> </li>
+      <li class="nav-item"> <a href="caracteristicas.dwt" target="new" class="nav-link">Características</a> </li>
+      <li class="nav-item"> <a href="causas.dwt" target="new" class="nav-link">Causas</a> </li>
+	  <li class="nav-item"> <a href="efectos.dwt" target="new" class="nav-link">Efectos</a> </li>
+	  <li class="nav-item"> <a href="señales.dwt" target="new" class="nav-link">Señales</a> </li>
+	  <li class="nav-item"> <a href="ayuda.dwt" target="new" class="nav-link">Ayuda</a> </li>
+    </ul>
+  </div>
+  <!-- TemplateEndEditable -->
+  <div class="container-fluid">
+  <img src="../imagenes/fondo.jpg" width="1200" height="800" alt=""/>
+  </div>
+  <!-- TemplateBeginEditable name="EditRegion2" style="text-align: center" -->
+  <div class="container-fluid">
+  <h3>Ayuda a personas con desórden alimenticio</h3>
+  <p>El tratamiento de un trastorno de la alimentación depende del trastorno en particular y de tus síntomas. Por lo general, comprende una combinación de terapia psicológica («psicoterapia»), educación sobre alimentación, supervisión médica y, algunas veces, medicamentos.</p>
+  <p>El tratamiento de un trastorno de la alimentación también debe abordar otros problemas de la salud provocados por este, que pueden ser graves o, incluso, pueden poner en riesgo la vida si no se tratan por mucho tiempo. Si un trastorno de la alimentación no mejora con el tratamiento estándar o provoca problemas de salud, es posible que necesites hospitalización u otro tipo de programa hospitalario.</p>
+  <h3>Si presentas un desorden alimentario o coneces a alguien que sufra de ello puedes llenar el siguiente formulario:</h3>
+  <form action="mailto:jeffvega456@gmail.com"><table width="57%" border="0">
+  <tbody>
+    <tr style="text-align: center">
+      <td><label for="textfield">Dirección de correo:</label></td>
+      <td><input type="text" name="textfield" id="textfield"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><label for="tel">Tel:</label></td>
+      <td style="text-align: center"><input type="tel" name="tel" id="tel"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Conoces a alguien con DA</td>
+      <td style="text-align: center"><input name="radio" type="radio" id="radio" value="info_si" checked="checked">
+        si 
+          <input type="radio" name="radio" id="radio2" value="info_no">
+          no<span style="text-align: center"></span></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">¿Qué DA padece?</td>
+      <td style="text-align: center"><select name="da" multiple="MULTIPLE" id="da">
+        <option>Pica</option>
+        <option>T. de Rumiación</option>
+        <option>T. de restricción de Alimentos</option>
+        <option selected="selected">Anorexia</option>
+        <option>Bulimia</option>
+        <option>T. por Atracón</option>
+      </select></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center"><input type="submit" name="submit" id="submit" value="Enviar"></td>
+    </tr>
+  </tbody>
+</table>
+</form>
+  </div>
+  <!-- TemplateEndEditable -->
+  <!-- body code goes here -->
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="../js/jquery-3.3.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="../js/popper.min.js"></script> 
+  <script src="../js/bootstrap-4.3.1.js"></script>
+  </body>
+</html>
